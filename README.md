@@ -6,6 +6,8 @@
 
 ### Supports creation, editing, deletion, and favoriting.
 
+#### Built with MERN
+
 <br>
 
 ## Still WIP
@@ -15,6 +17,7 @@
 - Accounts
 - Priority
 - Search
+- Markdown
 - More???
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
